@@ -1,4 +1,4 @@
-# BioBricks Catch Game (iGEM Keio)
+# BioBricks Catch Game (Keio-Japan 2026)
 
 A browser game about building genetic circuits. Move a petri dish to catch falling BioBrick parts, and assemble them in the right order to complete a circuit.
 
